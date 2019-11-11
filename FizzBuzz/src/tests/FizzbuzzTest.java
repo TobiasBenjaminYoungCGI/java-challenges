@@ -1,12 +1,11 @@
-package test;
+package tests;
 
 public class FizzbuzzTest {
 
-    @test
+    @Test
     public void multiplesOfThreeNotFive(){
-        int i = 1;
-        for(i){
+        for(int i=0; i<=5; i++){
 
         };
-    }
+    };
 }
