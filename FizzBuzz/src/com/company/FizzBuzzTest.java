@@ -16,5 +16,5 @@ class FizzBuzzTest {
     void isMultipleOf5() {
         assertTrue(fizzBuzz.isFizz(5));
         assertFalse(fizzBuzz.isFizz(6));
-    }
+    }E
 }
